@@ -89,6 +89,5 @@ Después de cada inserción válida, el programa imprimirá una representación 
     * `Entrada inválida. Por favor, ingrese un número entero o 'exit'.`: Mensaje que se muestra cuando la entrada del usuario no es un entero válido.
     * `Programa terminado.`: Mensaje que se muestra al finalizar la ejecución del programa.
 
-**(Aquí agregarás las imágenes de ejemplo de entradas y salidas en tu archivo `README.md`)**
 
 ```markdown
