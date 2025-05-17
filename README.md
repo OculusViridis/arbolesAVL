@@ -86,5 +86,5 @@ Después de cada inserción válida, el programa imprimirá una representación 
     * `Árbol AVL:`: Mensaje que precede a la impresión visual del árbol después de cada inserción.
     * `Entrada inválida. Por favor, ingrese un número entero o 'exit'.`: Mensaje que se muestra cuando la entrada del usuario no es un entero válido.
     * `Programa terminado.`: Mensaje que se muestra al finalizar la ejecución del programa.
-
+* **Ejemplo de Ejecucion en Visual Studio Code**
 ![Imagen Ejemplo](/arbolAVLJava.png)
