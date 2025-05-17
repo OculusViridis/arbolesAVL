@@ -77,8 +77,6 @@ Después de cada inserción válida, el programa imprimirá una representación 
         40
     20
         30
-10
-        25
     ```
 
     En este ejemplo simplificado, `10` sería la raíz, `20` su hijo derecho, `30` el hijo derecho de `20`, y `25` el hijo izquierdo de `20`, mientras que `40` sería un hijo del subárbol derecho (la orientación real puede variar ligeramente según la implementación de la impresión).
