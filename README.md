@@ -2,6 +2,9 @@
 
 Este proyecto contiene una implementación en Java de un árbol AVL (Adelson-Velsky and Landis). Un árbol AVL es un árbol de búsqueda binaria auto-balanceable, lo que significa que mantiene una altura logarítmica, asegurando así que las operaciones básicas como búsqueda, inserción y eliminación tengan una complejidad temporal de $O(\log n)$ en el peor caso.
 
+### Video en YouTube 
+[Video] (https://youtu.be/ApUgZQg7cH8)
+
 ## Funcionamiento
 
 El programa permite al usuario insertar números enteros de forma interactiva en un árbol AVL. Después de cada inserción, el programa imprime una representación visual del árbol en la terminal. El árbol se balancea automáticamente mediante rotaciones (rotación simple izquierda, rotación simple derecha, rotación doble izquierda-derecha y rotación doble derecha-izquierda) cuando se detecta un desbalance, manteniendo así su propiedad de auto-balanceo.
